@@ -39,7 +39,9 @@ h1,
 h2 {
   font-size: 2rem;
   font-family: 'Fraunces', serif;
+  font-weight: 700;
 }
+
 
 p,
 h1,
@@ -51,7 +53,7 @@ h2 {
 }
 
 .category {
-  letter-spacing: 0.5rem;
+  letter-spacing: 0.4rem;
 }
 
 button {
